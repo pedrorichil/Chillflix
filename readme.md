@@ -23,7 +23,7 @@ python3 -m venv chillflix_env
 ```
 Activate the Environment
 ```bash
-soruce chillflix_env/bin/activate 
+source chillflix_env/bin/activate 
 ```
 Clone the project to this directory 
 ```bash
